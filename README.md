@@ -9,6 +9,7 @@ Source code to accompany this video: https://youtu.be/PHZtujcTRPk
 * Code organisation in Slim
 * Using third-party packages in Slim
 * Dependency Injection
+* Middleware
 * Slim controllers
 * Slim configuration
 
