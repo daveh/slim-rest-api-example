@@ -2,7 +2,7 @@
 
 Source code to accompany this video: https://youtu.be/PHZtujcTRPk
 
-[![Signup and Login with PHP and MySQL](https://img.youtube.com/vi/PHZtujcTRPk/0.jpg)](https://youtu.be/PHZtujcTRPk)
+[![REST API with PHP and MySQL | Full Slim PHP Micro Framework Tutorial](https://img.youtube.com/vi/PHZtujcTRPk/0.jpg)](https://youtu.be/PHZtujcTRPk)
 
 ## Topics covered in the video
 * Slim basics
